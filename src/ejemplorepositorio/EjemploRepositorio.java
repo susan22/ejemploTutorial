@@ -16,7 +16,7 @@ public class EjemploRepositorio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
+       //ejemplo para tutorial//
         System.out.print("primer ejmplo de las bases de datos jejjejjej");
         
     }
